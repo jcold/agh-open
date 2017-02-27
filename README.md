@@ -12,4 +12,5 @@
 
 ### 接入流程概览
 
-[[ https://s2.aghcdn.com/agh-open-connet-flow.png ]]
+![接入时序图]
+(https://s2.aghcdn.com/agh-open-connet-flow.png)
