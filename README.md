@@ -8,3 +8,8 @@
 * [组织架构同步接口](组织架构同步接口.md)
 * [消息推送接口](消息推送接口.md)
 * [单点登录接口(sso)](单点登录接口.md)
+
+
+### 接入流程概览
+
+[[ https://s2.aghcdn.com/agh-open-connet-flow.png ]]
